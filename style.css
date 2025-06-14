@@ -157,7 +157,7 @@ figure:nth-child(2) .polaroid::before {
 }
 
 figure:nth-child(3) .polaroid::before {
-    content: "🐱"; 
+    content: "🐈"; 
 }
 
 body{
